@@ -1,10 +1,10 @@
 About Me 👋
 ----------------------------
 - 😺 Hi, I’m @B0T1eR
-- 👀 I’m interested in Web Security, But I only know CTF-Java
-- 🌱 I’m currently learning Java SourceAudit
+- 👀 I’m interested in Web Security.
+- 🌱 I’m currently learning Java SourceAudit.
 - 📫 How to reach me @qq
-- 🛖 My Blog is https://www.cnblogs.com/BUTLER
+- 🛖 My Blog is https://www.cnblogs.com/BUTLER.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
